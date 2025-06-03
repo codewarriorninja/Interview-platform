@@ -24,6 +24,7 @@ export default function RootLayout({
       <body
         className={`${monaSans.className} font-santialiased`}
       >
+        
         {children}
       </body>
     </html>
