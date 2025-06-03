@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body
-        className={`${monaSans.className} font-santialiased`}
+        className={`${monaSans.className} font-santialiased pattern`}
       >
         
         {children}
